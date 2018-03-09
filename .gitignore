@@ -3,4 +3,5 @@ composer.phar
 composer.lock
 /fixture/vendor
 build
+./idea
 .php_cs.cache
